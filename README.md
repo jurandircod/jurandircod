@@ -1,4 +1,4 @@
-## Olá, meu nome é Douglas Ryosuke Mitui Sugano!
+## Olá, meu nome é Jurandir Aparecido dos Santos Sobrinho da Cruz!
 
 ### ⚙️ Analise
 
