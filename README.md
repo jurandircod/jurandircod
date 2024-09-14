@@ -54,10 +54,7 @@
  <li>Estudante do Curso de Analise e Desenvolvimento de Sistemas no IFPR no Campus Umuarama</li>
  <li><p><b>Experiência com desenvolvimento e infraestrutura em T.I</b></p></li>
 </ol>
-<div style="display: flex; justify-content: space-between">
-  <img src="gojo.gif" width="110px" height="180px">
-  <img src="anime.gif" width="110px" height="180px" >
-</div>
+
 ---
 <div align="center">
   <h3><b>📍Quantas Pessoas me Stalkearam</b></h3>
