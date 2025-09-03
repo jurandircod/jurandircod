@@ -43,7 +43,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (IFPR)** com experiên
 ---
 
 ## Projetos em destaque
-> Repositórios pinados no perfil são as primeiras impressões que recrutadores veem. Mantenha READMEs individuais explicativos, badges de build/coverage e um deploy (se aplicável).
 
 - **Brooklyn** — Repositório principal (ex: loja e-commerce).  
   `Descrição curta:` E-commerce para venda de peças de skate e roupas — backend em Laravel, integração de pagamentos e verificação de estoque por tamanho.
