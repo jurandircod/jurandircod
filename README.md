@@ -1,9 +1,9 @@
 # Jurandir Aparecido dos Santos Sobrinho da Cruz
 **Desenvolvedor Web | Infra & DevOps (PHP · Laravel · Docker · Linux)**
 
-[![Website](https://img.shields.io/badge/Website-portfolio-informational?style=for-the-badge)](https://seu-site-aqui.com) 
-[![Email](https://img.shields.io/badge/Contato-jurandir%40seuemail.com-blue?style=for-the-badge&logo=gmail)](mailto:jurandir@seuemail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil) 
+[![Website](https://img.shields.io/badge/Website-portfolio-informational?style=for-the-badge)](https://jurandiraparecido19651965@gmail.com) 
+[![Email](https://img.shields.io/badge/Contato-jurandir%40seuemail.com-blue?style=for-the-badge&logo=gmail)](mailto:jurandiraparecido19651965@gmai.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jurandir-aparecido-38956219b) 
 [![Disponível para trabalho](https://img.shields.io/badge/Disponível-Contratação-success?style=for-the-badge)]
 
 ---
